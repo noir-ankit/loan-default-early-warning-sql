@@ -4,8 +4,6 @@
 --
 -- DATA NOTE: This is a SIMULATED dataset modelled on Indian retail lending
 -- (CIBIL score, FOIR, EMI, 90+ DPD default, INR amounts, Indian cities).
--- It is NOT real ICICI Bank data. Say this clearly in your interview.
--- Interest rates and loan sizes are illustrative, not ICICI's actual rates.
 -- =====================================================================
 
 
